@@ -5,7 +5,7 @@ We investigate the influence of the type of words in a Spanish political lexicon
 
 Here, we present and make available to the community, the different versions of the Spanish political lexicon until the final filtering according to the influence of word type on label prediction.
 
-[Sánchez-Junquera, onzetto and Rosso, 2020](https://link.springer.com/chapter/10.1007/978-3-030-58323-1_4) present a corpus of tweets from political accounts of the main political parties during the Spanish elections on 10 November 2019 (10N Spanish elections), from here we start in the creation of our lexicons.
+[(Sánchez-Junquera, onzetto and Rosso, 2020)](https://link.springer.com/chapter/10.1007/978-3-030-58323-1_4) present a corpus of tweets from political accounts of the main political parties during the Spanish elections on 10 November 2019 (10N Spanish elections), from here we start in the creation of our lexicons.
 
 ### - ELECC
 In .csv and .txt files. List of 300 words of political use extracted, most used in the texts of the corpus 10N Spanish elections.
